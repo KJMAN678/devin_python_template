@@ -10,6 +10,10 @@
 # 環境変数用のファイル作成
 $ touch .envrc
 
+# .envrc に下記を入力. xxx は適宜更新
+
+export HOGE=xxx
+
 # 環境変数を読み込む
 $ direnv allow
 ```
